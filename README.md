@@ -1,5 +1,5 @@
 <h1 style=color:blue align="center">$${\huge\color{red}Hi \space , \space \color{green}I'm \space \color{blue}Atakan \space Gesmeli \space \color{purple}(aka \space ages2001) \space \color{yellow}!}$$</h1>
-<h3 align="center">$${\Large\color{orange}A \space Software \space Developer \space who \space loves \space computer \space world \space !}$$</h3>
+<h3 align="center">$${\Large\color{orange}A \space Software \space Developer \space who \space loves \space Computer \space World \space !}$$</h3>
 <br>
 <br>
 <h3 align="center">$${\large\color{lightgreen}Connect \space with \space me}$$</h3>
