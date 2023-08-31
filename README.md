@@ -1,4 +1,4 @@
-<h1 style=color:blue align="left">$${\color{red}Hi \space ! \space \color{green}I'm \space \color{blue}Atakan \space Gesmeli \space \color{purple}(aka \space ages2001)}$$</h1>
+<h1 style=color:blue align="left">$${\color{red}Hi \space , \space \color{green}I'm \space \color{blue}Atakan \space Gesmeli \space \color{purple}(aka \space ages2001) \space \color{yellow}!}$$</h1>
 <h3 align="left">A Software Developer who loves software environment</h3>
 
 <h3 align="left">Connect with me:</h3>
