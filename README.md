@@ -2,6 +2,7 @@
 <h3 align="center">$${\color{orange}A \space Software \space Developer \space who \space loves \space software \space environment}$$</h3>
 
 <h3 align="center">$${\color{lightgreen}Connect \space with \space me:}$$</h3>
+<br>
 <p align="center">
 <a href="mailto:atakangesmeli292@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="atakangesmeli292@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/ages2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ages2001" height="30" width="40" /></a>
