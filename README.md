@@ -7,7 +7,7 @@
 <a href="mailto:atakangesmeli292@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="atakangesmeli292@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/ages2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ages2001" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atakan-gesmeli-5873a322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atakan Gesmeli" height="30" width="40" /></a>
-<a href="https://twitter.com/ages2001" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/95752873/264682060-a88e17b4-731f-470d-b0ce-732baed056f0.svg" alt="ages2001" height="60" width="40" /></a>
+<a href="https://twitter.com/ages2001" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/95752873/264682060-a88e17b4-731f-470d-b0ce-732baed056f0.svg" alt="ages2001" height="60" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCTglQhNMsAX1HouwY0hxhpQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ages2001" height="30" width="40" /></a>
 </p>
 <br>
