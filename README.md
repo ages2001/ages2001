@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Atakan Gesmeli (aka ages2001)</h1>
+<h1 style=color:blue; align="left">Hi 👋, I'm Atakan Gesmeli (aka ages2001)</h1>
 <h3 align="left">A Software Developer who loves software environment</h3>
 
 <h3 align="left">Connect with me:</h3>
