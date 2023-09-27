@@ -1,8 +1,8 @@
-<h1 style=color:blue align="center">$${\huge \color{red}Hi \space , \space \color{green}I'm \space \color{blue}Atakan \space Gesmeli \space \color{purple}(aka \space ages2001) \space \color{yellow}!}$$</h1>
-<h3 align="center">$${\Large\color{orange}A \space Software \space Developer \space who \space loves \space the \space computer \space world \space !}$$</h3>
+<h1 style=color:blue align="center">Hi, I'm Atakan Gesmeli (aka ages2001) !</h1>
+<h3 align="center">A Software Developer who loves the computer world !}$$</h3>
 <br>
 <br>
-<h3 align="center">$${\large\color{lightgreen}Connect \space with \space me}$$</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="mailto:atakangesmeli292@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="atakangesmeli292@gmail.com" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/ages2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ages2001" height="30" width="40" /></a> &nbsp;
