@@ -1,5 +1,5 @@
 <h1 style=color:blue align="center">Hi, I'm Atakan Gesmeli (aka ages2001) !</h1>
-<p style="font-size:14px; align="center">A Software Developer who loves the computer world !</p>
+<p style="font-size:4em" align="center">A Software Developer who loves the computer world !</p>
 <br>
 <br>
 <p align="center">Connect with me</p>
