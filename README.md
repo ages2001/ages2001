@@ -5,8 +5,8 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="mailto:atakangesmeli@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="atakangesmeli292@gmail.com" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/atakan.gesmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ages2001" height="30" width="40" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/atakan-gesmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atakan Gesmeli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atakan-gesmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atakan Gesmeli" height="30" width="40" /></a> &nbsp;
+<a href="https://instagram.com/atakan.gesmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ages2001" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools</h3>
