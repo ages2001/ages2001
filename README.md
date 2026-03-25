@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Atakan Gesmeli!</h1>
 <br>
-<h2 align="center">A Software Developer who loves the computer world !</h2>
+<h2 align="center">Research Assistant at Ege University Artificial Intelligence and Data Engineering!</h2>
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
